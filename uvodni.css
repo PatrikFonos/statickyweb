@@ -1,0 +1,46 @@
+body{
+    margin: 0;
+    background-color: #5CDB95;
+    font-family: helvetica, Arial, sans-serif;
+}
+header{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+header img{
+    border-radius: 200px;
+    border: 10px solid aliceblue;
+}
+
+header h1{
+    color: aliceblue;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 30px;
+
+}
+
+main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+main img{
+    width: 100%;
+    max-width: 900px;
+    height: auto;
+
+}
+
+main h2, p{
+    color: aliceblue;
+    font-family: helvetica, Arial, sans-serif;
+}
+
+footer{
+    background-color: #379683;
+    padding: 20px;
+    color: aliceblue;
+    font-family: helvetica, Arial, sans-serif;
+}
