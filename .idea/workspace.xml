@@ -10,8 +10,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -37,6 +37,14 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\patri\OneDrive\Dokumenty\Git\statickyweb\Images" />
+      <recent name="C:\Users\patri\OneDrive\Dokumenty\Git\statickyweb" />
+      <recent name="C:\Users\patri\OneDrive\Dokumenty\Git\statickyweb\CSS" />
+      <recent name="C:\Users\patri\OneDrive\Dokumenty\Git\statickyweb\HTML" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,11 +56,24 @@
       <workItem from="1604759554291" duration="3716000" />
       <workItem from="1604900749813" duration="5474000" />
       <workItem from="1604991188156" duration="1195000" />
-      <workItem from="1605511892208" duration="3265000" />
+      <workItem from="1605511892208" duration="3655000" />
+      <workItem from="1606029739359" duration="175000" />
+      <workItem from="1606038870962" duration="2005000" />
+      <workItem from="1606040891735" duration="15191000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-870" y="513" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605515265516">
+      <screen x="-1200" y="-174" width="1200" height="1880" />
+    </state>
+    <state x="-870" y="513" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1200.-174.1200.1880@-1200.-174.1200.1880" timestamp="1605515265516" />
+    <state x="-937" y="261" key="search.everywhere.popup" timestamp="1606040621906">
+      <screen x="-1200" y="-174" width="1200" height="1880" />
+    </state>
+    <state x="-937" y="261" key="search.everywhere.popup/0.0.1920.1040/-1200.-174.1200.1880@-1200.-174.1200.1880" timestamp="1606040621906" />
   </component>
 </project>

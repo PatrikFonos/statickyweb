@@ -1,0 +1,46 @@
+.text h1{
+    padding-bottom: 30px;
+}
+.escobar1 {
+    float: left;
+    width: 50%;
+}
+
+.escobar2 {
+    float: left;
+    width: 50%;
+}
+
+.escobar1 iframe{
+    width: 35vw;
+    height: calc(35vw/1.77);
+}
+
+.umbrella1 {
+    float: left;
+    width: 50%;
+}
+
+.umbrella2 {
+    float: left;
+    width: 50%;
+}
+
+.umbrella1 iframe{
+    width: 35vw;
+    height: calc(35vw/1.77);
+}
+.atypical1 {
+    float: left;
+    width: 50%;
+}
+
+.atypical2 {
+    float: left;
+    width: 50%;
+}
+
+.atypical1 iframe{
+    width: 35vw;
+    height: calc(35vw/1.77);
+}
