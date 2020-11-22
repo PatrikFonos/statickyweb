@@ -21,6 +21,7 @@ html {
 .menu .momentalne{
     font-weight: bold;
     font-size: 20px;
+    color: aliceblue;
 }
 
 .menu a:visited {
@@ -37,6 +38,7 @@ html {
 .menu ul{
     display: inline-flex;
     margin: 50px;
+    color: aliceblue;
 }
 
 .menu ul li{
