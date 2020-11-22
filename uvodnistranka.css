@@ -3,6 +3,9 @@
     padding: 0;
     font-family: sans-serif;
 }
+a {
+    color: aliceblue;
+}
 
 body {
     min-height: 1000px;
