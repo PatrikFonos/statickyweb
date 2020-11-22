@@ -3,6 +3,11 @@
     padding: 0;
     font-family: sans-serif;
 }
+
+.menu .momentalne{
+    font-weight: bold;
+    font-size: 20px;
+}
 a {
     color: aliceblue;
 }
@@ -21,10 +26,7 @@ html {
     height: 120px;
 }
 
-.menu .momentalne{
-    font-weight: bold;
-    font-size: 20px;
-}
+
 
 .menu a:visited {
     text-decoration: none;
