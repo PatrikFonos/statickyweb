@@ -27,7 +27,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Images" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -60,6 +60,7 @@
       <workItem from="1606029739359" duration="175000" />
       <workItem from="1606038870962" duration="2005000" />
       <workItem from="1606040891735" duration="20346000" />
+      <workItem from="1606077263995" duration="335000" />
     </task>
     <servers />
   </component>
@@ -71,9 +72,9 @@
       <screen x="-1200" y="-174" width="1200" height="1880" />
     </state>
     <state x="-870" y="513" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1200.-174.1200.1880@-1200.-174.1200.1880" timestamp="1605515265516" />
-    <state x="-937" y="261" key="search.everywhere.popup" timestamp="1606059999751">
+    <state x="-937" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1606077381572">
       <screen x="-1200" y="-174" width="1200" height="1880" />
     </state>
-    <state x="-937" y="261" key="search.everywhere.popup/0.0.1920.1040/-1200.-174.1200.1880@-1200.-174.1200.1880" timestamp="1606059999751" />
+    <state x="-937" y="261" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1200.-174.1200.1880@-1200.-174.1200.1880" timestamp="1606077381572" />
   </component>
 </project>
