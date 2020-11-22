@@ -1,0 +1,56 @@
+.text h1{
+    padding-bottom: 30px;
+}
+.cyberpunk1 {
+    float: right;
+    width: 50%;
+}
+
+.cyberpunk2 {
+    float: right;
+    width: 50%;
+}
+
+.cyberpunk1 iframe{
+    width: 35vw;
+    height: calc(35vw/1.77);
+}
+
+.forza1 {
+    float: right;
+    width: 50%;
+}
+
+.forza2 {
+    float: right;
+    width: 50%;
+}
+
+.forza1 iframe{
+    width: 35vw;
+    height: calc(35vw/1.77);
+}
+.cod1 {
+    float: right;
+    width: 50%;
+}
+
+.cod2 {
+    float: right;
+    width: 50%;
+}
+
+.cod1 iframe{
+    width: 35vw;
+    height: calc(35vw/1.77);
+}
+
+.cod2 p{
+    padding-right: 20px;
+}
+.cyberpunk2 p{
+    padding-right: 20px;
+}
+.forza2 p{
+    padding-right: 20px;
+}
