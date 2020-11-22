@@ -19,21 +19,21 @@ html {
     width: 100%;
     background-color: black;
     height: 120px;
-    color: aliceblue;
 }
 
 .menu .momentalne{
     font-weight: bold;
     font-size: 20px;
-    color: aliceblue;
 }
 
 .menu a:visited {
+    text-decoration: none;
     color: aliceblue;
 }
 
 
 .menu a:hover{
+    text-decoration: none;
     color: #e63946;
 }
 
@@ -42,13 +42,11 @@ html {
 .menu ul{
     display: inline-flex;
     margin: 50px;
-    color: aliceblue;
 }
 
 .menu ul li{
     list-style: none;
     margin: 0 20px;
-    color: aliceblue;
     cursor: pointer;
 }
 
