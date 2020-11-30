@@ -38,6 +38,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\patri\OneDrive\Dokumenty\Git\statickyweb\Images" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\patri\OneDrive\Dokumenty\Git\statickyweb\Images" />
       <recent name="C:\Users\patri\OneDrive\Dokumenty\Git\statickyweb" />
@@ -60,7 +63,8 @@
       <workItem from="1606029739359" duration="175000" />
       <workItem from="1606038870962" duration="2005000" />
       <workItem from="1606040891735" duration="20346000" />
-      <workItem from="1606077263995" duration="335000" />
+      <workItem from="1606077263995" duration="597000" />
+      <workItem from="1606734357922" duration="4177000" />
     </task>
     <servers />
   </component>
@@ -68,10 +72,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="-870" y="513" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605515265516">
+    <state x="-870" y="513" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606738471134">
       <screen x="-1200" y="-174" width="1200" height="1880" />
     </state>
-    <state x="-870" y="513" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1200.-174.1200.1880@-1200.-174.1200.1880" timestamp="1605515265516" />
+    <state x="-870" y="513" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1200.-174.1200.1880@-1200.-174.1200.1880" timestamp="1606738471134" />
     <state x="-937" y="261" width="672" height="678" key="search.everywhere.popup" timestamp="1606077381572">
       <screen x="-1200" y="-174" width="1200" height="1880" />
     </state>
